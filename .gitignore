@@ -11,3 +11,8 @@ node_modules
 .vscode/
 .claude/
 .agents/
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
